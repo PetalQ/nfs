@@ -1,1 +1,1 @@
-FROM sig-storage/nfs-subdir-external-provisioner:v4.0.17
+FROM calico/cni:v3.24.4
